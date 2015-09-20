@@ -1,3 +1,3 @@
 gitskills
 =========
-9999999999999
+Creating a new branch is quick AND simple.
